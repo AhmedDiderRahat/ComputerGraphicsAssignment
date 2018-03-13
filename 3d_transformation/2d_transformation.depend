@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1480012454 source:e:\rahat\academic\1=fall-16\graphics\2d_transformation\main.cpp
+	<iostream>
+	<stdio.h>
+	<graphics.h>
+	<winbgim.h>
+	<math.h>
+

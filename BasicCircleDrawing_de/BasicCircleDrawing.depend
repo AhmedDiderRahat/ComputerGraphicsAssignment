@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1481778560 source:e:\rahat\academic\1=fall-16\graphics\circle\basiccircledrawing\main.cpp
+	<iostream>
+	<cmath>
+	<graphics.h>
+	<winbgim.h>
+

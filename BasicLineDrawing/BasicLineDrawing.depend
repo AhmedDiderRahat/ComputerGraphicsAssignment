@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1482035240 source:e:\rahat\academic\1=fall-16\graphics\basiclinedrawing\main.cpp
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<math.h>
+	<stdio.h>
+
+1482035250 source:e:\rahat\academic\1=fall-16\graphics\basiclinedrawing\line.cpp
+
